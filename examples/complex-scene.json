@@ -1,0 +1,137 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2024-01-01T00:00:00.000Z",
+  "objects": [
+    {
+      "id": "obj_0_1704067200000",
+      "type": "box",
+      "name": "box",
+      "position": {
+        "x": 0,
+        "y": 0.5,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0.7853981633974483,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.5,
+        "y": 0.5,
+        "z": 1.5
+      },
+      "material": {
+        "color": 4886754,
+        "opacity": 1,
+        "transparent": false
+      },
+      "parameters": {
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      }
+    },
+    {
+      "id": "obj_1_1704067200001",
+      "type": "sphere",
+      "name": "sphere",
+      "position": {
+        "x": 3,
+        "y": 1,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.2,
+        "y": 1.2,
+        "z": 1.2
+      },
+      "material": {
+        "color": 14830666,
+        "opacity": 1,
+        "transparent": false
+      },
+      "parameters": {
+        "radius": 0.5,
+        "segments": 32
+      }
+    },
+    {
+      "id": "obj_2_1704067200002",
+      "type": "cylinder",
+      "name": "cylinder",
+      "position": {
+        "x": -3,
+        "y": 0.75,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0.5235987755982988
+      },
+      "scale": {
+        "x": 1,
+        "y": 1.5,
+        "z": 1
+      },
+      "material": {
+        "color": 4908688,
+        "opacity": 1,
+        "transparent": false
+      },
+      "parameters": {
+        "radiusTop": 0.5,
+        "radiusBottom": 0.5,
+        "height": 1,
+        "segments": 32
+      }
+    },
+    {
+      "id": "obj_3_1704067200003",
+      "type": "extruded",
+      "name": "extruded",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 3
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "material": {
+        "color": 14848074,
+        "opacity": 1,
+        "transparent": false
+      },
+      "parameters": {
+        "sketchData": {
+          "type": "rectangle",
+          "points": [
+            {
+              "x": -0.5,
+              "y": -0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        "extrudeDepth": 1.5
+      }
+    }
+  ]
+}
