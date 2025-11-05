@@ -17,7 +17,7 @@ function Toolbar({
   return (
     <div className="toolbar">
       <div className="toolbar-group">
-        <div className="toolbar-label">Primitives</div>
+        <div className="toolbar-label">Shapes</div>
         <div className="toolbar-buttons">
           <button className="btn btn-icon" onClick={onAddBox} title="Add Box">
             📦
