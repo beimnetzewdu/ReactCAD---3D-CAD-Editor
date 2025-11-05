@@ -2,6 +2,13 @@
 
 A minimal but structurally solid browser-based CAD editor built with React and Three.js (plain Three.js, no React Three Fiber).
 
+🌐 Live Demo
+
+🔗 Deployed URL: https://reactcad.beimnetzewdu.com/ - deployed on Vercel and managed by Cloudflare
+
+📦 GitHub Repository:  https://github.com/beimnetzewdu/ReactCAD---3D-CAD-Editor
+
+
 🚀 Features
 🧱 Shape Creation
 
